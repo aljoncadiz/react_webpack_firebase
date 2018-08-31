@@ -63,5 +63,5 @@ typings/
 /.vscode
 
 # webpack build output
-/node_modules
-/dist
+node_modules/**
+dist/**
